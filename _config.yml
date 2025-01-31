@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sneha"
+title                    : "Sneha's homepage"
 title_separator          : "-"
-name                     : &name "Sneha Sree Vavilapalli"
-description              : &description "personal description"
+name                     : #&name "Sneha Sree Vavilapalli"
+description              : #&description "personal description"
 url                      : https://heyloworld.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "heyloworld/heyloworld.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Trying to stay relevant in the field of data science"
   location         : "University of Massachusetts, Amherst"
-  employer         : "University of Massachusetts, Amherst"
+  employer         : #"University of Massachusetts, Amherst"
   uri              : # URL
   email            : "sneha.vavilapalli@gmail.com" 
 
