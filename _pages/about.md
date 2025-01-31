@@ -7,26 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-
-
-A data-driven personal website
+Compiling myself one bit at a time - flipping between 0s and 1s!
 ======
 
-
-Getting started
 ======
 
-
-Site-wide configuration
 ------
 
-
-Create content & metadata
 ------
 
 
 **Markdown generator**
 
 
-For more info
 ------
