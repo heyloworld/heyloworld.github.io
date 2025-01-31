@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, there! Welcome to another not so boring github page"
+title: "Hello!!"
 author_profile:  "About me"
 redirect_from: 
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Compiling myself one bit at a time - flipping between 0s and 1s!
+
 ======
 
 ======
