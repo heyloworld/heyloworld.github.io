@@ -21,7 +21,7 @@ repository               : "heyloworld/heyloworld.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Sneha Sree Vavilapalli"
   pronouns         : # example: "she/her"  
   bio              : "Trying to stay relevant in the field of data science"
