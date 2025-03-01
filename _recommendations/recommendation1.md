@@ -9,6 +9,7 @@ recommender_role: "Senior Consultant, Fractal Analytics"
 venue: "Fractal Analytics"
 date: 2023-08-01
 location: "Bengaluru, India"
+excerpt: "Full content"
 ---
 I have had the pleasure of working closely with Sneha for the past couple of years at Fractal. 
 

@@ -293,6 +293,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      read_more: false
 
 
 # Sass/SCSS

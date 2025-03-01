@@ -9,6 +9,7 @@ recommender_role: "Senior Consultant, Fractal Analytics"
 venue: "Fractal Analytics"
 date: 2023-08-01
 location: "Bengaluru, India"
+excerpt: "Full content"
 ---
 
 I am delighted to recommend Sneha for tech roles, particularly data science. I've had the privilege of collaborating with Sneha and can confidently vouch for her exceptional skills and teamwork.
