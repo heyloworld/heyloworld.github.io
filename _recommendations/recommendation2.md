@@ -1,6 +1,6 @@
 ---
 title: "Recommendation 2"
-collection: recommendation
+collection: recommendations
 type: "Data Scientist"
 permalink: /recommendations/recommendation2
 recommender: "Abhijeet Boridkar"

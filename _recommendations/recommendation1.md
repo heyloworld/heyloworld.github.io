@@ -1,6 +1,6 @@
 ---
 title: "Recommendation 1"
-collection: recommendation
+collection: recommendations
 type: "Data Scientist"
 permalink: /recommendations/recommendation1
 recommender: "Keshav Nag"
