@@ -16,6 +16,12 @@ Education
 
 Work experience
 ======
+* Graduate Student Researcher
+  * 
+  * 
+  * 
+
+
 * Artificial Intelligence Intern at Docket AI (Summer 2024)
   * 
   * 
@@ -30,15 +36,33 @@ Work experience
   * 
   * 
   * 
-  
-Skills
+
+Projects 
+======
+* Multi-modal IR System with VLMs by Incorporating External Knowledge 
+  * 
+  * 
+  * 
+
+
+* Classifier Guided Style Constrained Generation 
+  * 
+  * 
+  * 
+
+* Reinforcement Learning algorithms analysis in discrete and continuous domains 
+  * 
+  * 
+  * 
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 <!-- Publications
 ======
@@ -58,6 +82,6 @@ Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
