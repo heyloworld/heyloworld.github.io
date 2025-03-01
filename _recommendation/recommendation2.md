@@ -2,7 +2,10 @@
 title: "Recommendation 2"
 collection: recommendation
 type: "Data Scientist"
-# permalink: /teaching/2015-spring-teaching-1
+permalink: /recommendation/recomendation2
+recommender: "Abhijeet Boridkar"
+recommener_profile: "https://www.linkedin.com/in/abhijeetarunboridkar/"
+recommender_role: "Senior Consultant, Fractal Analytics"
 venue: "Fractal Analytics"
 date: 2023-08-01
 location: "Bengaluru, India"

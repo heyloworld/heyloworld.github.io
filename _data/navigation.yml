@@ -26,7 +26,7 @@ main:
     url: /year-archive/
 
   - title: "Recommendations"
-    url: /recommendation/
+    url: /recommendations/
     
   # - title: "CV"
   #   url: /cv/ -- add random facts you'd not need to know but good to know
