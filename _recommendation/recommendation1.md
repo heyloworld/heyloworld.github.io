@@ -4,7 +4,7 @@ collection: recommendation
 type: "Data Scientist"
 permalink: /recommendation/recommendation1
 recommender: "Keshav Nag"
-recommener_profile: "https://www.linkedin.com/in/keshav16/"
+recommender_profile: "https://www.linkedin.com/in/keshav16/"
 recommender_role: "Senior Consultant, Fractal Analytics"
 venue: "Fractal Analytics"
 date: 2023-08-01
