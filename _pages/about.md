@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello, and thanks for your time!"
+title: "👋 Hello!!"
 excerpt: "About me"
 author_profile:  true
 redirect_from: 
@@ -14,5 +14,3 @@ redirect_from:
 📖 I'm a final year MSCS student at University of Massachusetts, Amherst.  I graduated from Indian Institute of Technology, Kharagpur in the year 2021. 
 
 🔬 Currently I'm working on two projects. The first one is on improving MRR and accuracy for ambiguous text to image retrieval. The second one is in collaboration with Microsoft team where we are building a general framework for agent as a judge system.
-
-👩‍🏫 I'm looking forward to build a career in the field in machine learning and AI.
