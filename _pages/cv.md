@@ -14,6 +14,12 @@ Education
 * M.S. in Computer Science, University of Massachusetts, Amherst, 2025
 * B.Tech. in Mechanical Engineering, Indian Institute of Technology, Kharagpur, 2021
 
+Skills
+======
+* Skill 1
+* Skill 2
+* Skill 3
+
 Work experience
 ======
 * Graduate Student Researcher

@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Compiling myself one bit at a time - flipping between 0s and 1s! -->
 <!-- ![Illustration combining my current interest in Image text matching in multi modal IR and agents](){} -->
 
 📖 I'm a final year MSCS student at University of Massachusetts, Amherst.  I graduated from Indian Institute of Technology, Kharagpur in the year 2021. 
