@@ -2,7 +2,7 @@
 title: "Recommendation 1"
 collection: recommendation
 type: "Data Scientist"
-permalink: /recommendation/recommendation1
+permalink: /recommendations/recommendation1
 recommender: "Keshav Nag"
 recommender_profile: "https://www.linkedin.com/in/keshav16/"
 recommender_role: "Senior Consultant, Fractal Analytics"

@@ -2,7 +2,7 @@
 title: "Recommendation 2"
 collection: recommendation
 type: "Data Scientist"
-permalink: /recommendation/recommendation2
+permalink: /recommendations/recommendation2
 recommender: "Abhijeet Boridkar"
 recommender_profile: "https://www.linkedin.com/in/abhijeetarunboridkar/"
 recommender_role: "Senior Consultant, Fractal Analytics"
