@@ -24,6 +24,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Teaching"
+    url: /teaching/
     
   # - title: "CV"
   #   url: /cv/ -- add random facts you'd not need to know but good to know
