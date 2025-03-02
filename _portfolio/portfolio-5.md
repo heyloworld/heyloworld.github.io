@@ -1,6 +1,6 @@
 ---
-title: "General framework for Agent as a Judge"
-excerpt: "Developing a general framework for evaluation of agents across domains <br/><img src='/images/500x300.png'>"
+title: "Text augmentation using LLMs"
+excerpt: "Developing a general framework for evaluation of agents across domains 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
