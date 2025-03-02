@@ -1,6 +1,6 @@
 ---
 title: "General framework for Agent as a Judge"
-excerpt: "Developing a general framework for evaluation of agents across domains <br/><img src='/images/687.png'>"
+excerpt: "Developing a general framework for evaluation of agents across domains <br/><img src='/images/685.png'>"
 collection: portfolio
 ---
 
