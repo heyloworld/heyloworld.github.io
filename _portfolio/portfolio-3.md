@@ -1,7 +1,10 @@
 ---
 title: "Classifier guided constrained style generation"
-excerpt: "Built a method for style transfer in text leveraging SetFit and FUDGE 1<br/><img src='/images/500x300.png'>"
+excerpt: "Built a method for style transfer in text leveraging SetFit and FUDGE<br/><img src='/images/685.png'>"
 collection: portfolio
 ---
+Please refer to this for the github code: [Visit GitHub](https://github.com/molereddy/SetFit-Style-Guidance)
+Please refer to this for the report: [Download PDF](files/StyleConstrainedGeneration.pdf)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Please refer to this for FUDGE image ![FUDGE](/images/500x300.png.png)
+ 

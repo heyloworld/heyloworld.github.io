@@ -1,6 +1,5 @@
 ---
-title: "Multi-modal Information Retrieval System with Large Language
-Models by Incorporating External Knowledge "
+title: "Multi-modal Information Retrieval System with Large Language Models by Incorporating External Knowledge "
 excerpt: "Disambiguating ambiguous text to image retrieval using multi-modal information retrieval system<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
