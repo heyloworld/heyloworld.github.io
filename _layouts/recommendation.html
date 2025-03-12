@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="recommendation">
+  <h1>{{ page.title }}</h1>
+  <p><strong>Recommender:</strong> <a href="{{ page.recommender_profile }}">{{ page.recommender }}</a></p>
+  <p><strong>Role:</strong> {{ page.recommender_role }}</p>
+  <p><strong>Venue:</strong> {{ page.venue }}</p>
+  <p><strong>Date:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+  <p><strong>Location:</strong> {{ page.location }}</p>
+  <hr>
+  <div class="recommendation-content">
+    {{ content }}
+  </div>
+</article>
