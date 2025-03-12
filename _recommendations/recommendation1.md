@@ -6,8 +6,8 @@ permalink: /recommendations/recommendation1
 layout: recommendation
 recommender: "Keshav Nag"
 recommender_profile: "https://www.linkedin.com/in/keshav16/"
-recommender_role: "Senior Consultant, Fractal Analytics"
-company: "<a href='https://fractal.ai' target='_blank'>Fractal Analytics</a>"
+recommender_role: "Senior Consultant, Fractal AI"
+company: "<a href='https://fractal.ai' target='_blank'>Fractal AI</a>"
 date: 2023-08-01
 location: "Bengaluru, India"
 excerpt: "Full content"
