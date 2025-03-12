@@ -7,7 +7,7 @@ layout: recommendation
 recommender: "Abhijeet Boridkar"
 recommender_profile: "https://www.linkedin.com/in/abhijeetarunboridkar/"
 recommender_role: "Senior Consultant, Fractal Analytics"
-Company: "Fractal Analytics"
+Company: "<a href='https://fractal.ai' target='_blank'>Fractal Analytics</a>"
 date: 2023-08-01
 location: "Bengaluru, India"
 excerpt: "Full content"
