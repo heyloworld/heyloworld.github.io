@@ -6,11 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- <!-- {% include base_path %} -->
+You can download my CV here: ![Download CV](/files/my_cv.pdf)
 
-You can download my CV here: [Download CV](/files/my_cv.pdf)
-<!-- {% include base_path %}
-
-Education
+<!-- Education
 ======
 * M.S. in Computer Science, University of Massachusetts, Amherst, 2025
 * B.Tech. in Mechanical Engineering, Indian Institute of Technology, Kharagpur, 2021
@@ -59,8 +58,8 @@ Projects
 
 * Reinforcement Learning algorithms analysis in discrete and continuous domains 
   * 
-  * 
   *  -->
+  <!-- *  --> -->
 
 <!-- Skills
 ======
