@@ -1,5 +1,5 @@
 ---
-title: "Recommendation 1"
+title: "Recommendation"
 collection: recommendations
 type: "Data Scientist"
 permalink: /recommendations/recommendation1

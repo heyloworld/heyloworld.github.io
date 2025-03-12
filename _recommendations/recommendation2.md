@@ -1,8 +1,9 @@
 ---
-title: "Recommendation 2"
+title: "Recommendation"
 collection: recommendations
 type: "Data Scientist"
 permalink: /recommendations/recommendation2
+layout: recommendation
 recommender: "Abhijeet Boridkar"
 recommender_profile: "https://www.linkedin.com/in/abhijeetarunboridkar/"
 recommender_role: "Senior Consultant, Fractal Analytics"
