@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can download my CV here: [Download CV](/files/my_cv.pdf)
+<!-- {% include base_path %}
 
 Education
 ======
@@ -59,7 +60,7 @@ Projects
 * Reinforcement Learning algorithms analysis in discrete and continuous domains 
   * 
   * 
-  * 
+  *  -->
 
 <!-- Skills
 ======
