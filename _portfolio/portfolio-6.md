@@ -1,6 +1,6 @@
 ---
 title: "Text augmentation using LLMs"
-excerpt: "Developing a general framework for evaluation of agents across domains <br/><img src='/images/500x300.png'>"
+excerpt: "Developing a general framework for evaluation of agents across domains <br/><img src='/images/682.png'>"
 collection: portfolio
 ---
 
