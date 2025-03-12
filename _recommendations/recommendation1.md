@@ -7,7 +7,7 @@ layout: recommendation
 recommender: "Keshav Nag"
 recommender_profile: "https://www.linkedin.com/in/keshav16/"
 recommender_role: "Senior Consultant, Fractal Analytics"
-venue: "Fractal Analytics"
+Company: "Fractal Analytics"
 date: 2023-08-01
 location: "Bengaluru, India"
 excerpt: "Full content"
